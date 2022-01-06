@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm B.tech student currently studying in BIT SINDRI, DHANBAD. 
+- 🌱 I’m currently learning JS.
+- REACH ME : mailto:vijaylowada2002@gmail.com
+
 
 <!--
 **venomvj/venomvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
