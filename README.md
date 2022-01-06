@@ -3,6 +3,9 @@ I'm B.tech student currently studying in BIT SINDRI, DHANBAD.
 - 🌱 I’m currently learning JS.
 - REACH ME : mailto:vijaylowada2002@gmail.com
 
+ Take a look :
+  - https://eloquent-davinci-3cf620.netlify.app/
+  - https://sad-goldberg-d7812a.netlify.app/#intro
 
 <!--
 **venomvj/venomvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
