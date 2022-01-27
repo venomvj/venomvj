@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi! there. I'm Vijay.</h1>
+<h1 align="center">Hi! there 👋. I'm Vijay.</h1>
 I'm B.tech student currently studying in BIT SINDRI, DHANBAD.
 
  I’m currently learning <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/>.
