@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 </h1>
 I'm B.tech student currently studying in BIT SINDRI, DHANBAD. 
 - 🌱 I’m currently learning JS.
 - REACH ME : mailto:vijaylowada2002@gmail.com
