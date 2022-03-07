@@ -7,7 +7,7 @@ I'm B.tech student currently studying in BIT SINDRI, DHANBAD.
 
 Take a look :
  - https://eloquent-davinci-3cf620.netlify.app/
- - https://sad-goldberg-d7812a.netlify.app/#intro
+<!--  - https://sad-goldberg-d7812a.netlify.app/#intro -->
 
 ## Languages:
 <p align="left">
