@@ -17,6 +17,8 @@ Take a look :
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </p>
+##Badges:
+[![@vijay's Holopin board](https://holopin.io/api/user/board?user=vijay)](https://holopin.io/@vijay)
 
 ## Contact me : <br>
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:vijaylowada2002@gmail.com) [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/_vi2107_/)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vijay2002/)
