@@ -17,7 +17,7 @@ Take a look :
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </p>
-##Badges:
+## Badges:
 [![@vijay's Holopin board](https://holopin.io/api/user/board?user=vijay)](https://holopin.io/@vijay)
 
 ## Contact me : <br>
